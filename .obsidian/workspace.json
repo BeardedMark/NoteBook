@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNL/Достижения.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Достижения"
+              "title": "README"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNL/Достижения.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Достижения"
+              "title": "Структура README"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "active": "9ea1d83a61bff397",
   "lastOpenFiles": [
+    "DNL/Достижения.md",
     "DNL/Исполнительный отчет.md",
     "DNL/Метрики направлений.md",
     "DNL/Опрос о руководителях.md",
@@ -229,7 +230,6 @@
     "База IT-знаний/Laravel/Laravel Skill List.md",
     "Проекты/Веб-публикация 1С/Ресурсы/TaskTracker.md",
     "Проекты/Веб-публикация 1С/Без названия.canvas",
-    "Статьи/Оценка трудозатрат.md",
     "База IT-знаний/Vue.js",
     "База IT-знаний/QR-коды",
     "Линое",
