@@ -11,9 +11,10 @@
 - MapCreator - 
 Проекты
 - [WebEnterprice](https://github.com/BeardedMark/WebFace-Enterprice) - Веб-представление публикации 1С предприятия
-- [PoeExtension](https://github.com/BeardedMark/PoeExtension) - Браузерное расширение для сайтов Path of Exile 
 - PhasmaQuest - 
 - Escud - 
+Софт
+- [PoeExtension](https://github.com/BeardedMark/PoeExtension) - Браузерное расширение для сайтов Path of Exile 
 - SberParce - 
 - ActiveChecker - 
 Ресурсы
