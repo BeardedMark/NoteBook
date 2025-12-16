@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты/README.md",
+                "file": "Статьи/Символы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Символы"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1С",
+                "query": "tag:#️⃣",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,15 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ea1d83a61bff397",
+  "active": "e1e4de59e329b06c",
   "lastOpenFiles": [
+    "Статьи/Расширение для Chrome.md",
+    "Статьи/Символы.md",
+    "Проекты/README.md",
+    "Статьи/Технологический стек.md",
+    "Проекты/Вебзитка.md",
     "README.md",
     "Проекты/Библиотека разметки Fibtrap/Общая заметка.md",
     "Проекты/Библиотека разметки Fibtrap/Без названия.md",
     "Проекты/Браузерна ММО игра/Все страницы.base",
     "Проекты/Phasmophobia/Взаимодействия.canvas",
-    "Проекты/Вебзитка.md",
-    "Проекты/README.md",
     "База IT-знаний/README.md",
     "База IT-знаний/Arduino/ESP32/Bluetooth.md",
     "База IT-знаний/Arduino/ESP32/Монитор порта.md",
@@ -217,8 +221,6 @@
     "База IT-знаний/Laravel/Запуск репозитория.md",
     "База IT-знаний/Laravel/Установка среды для разработки.md",
     "База IT-знаний/Git/Команды.md",
-    "Статьи/Технологический стек.md",
-    "Статьи/Расширение для Chrome.md",
     "База IT-знаний/Активация виндовс.md",
     "База IT-знаний/Технологический стек.md",
     "База IT-знаний/Коды ошибок.md",
@@ -230,7 +232,6 @@
     "База IT-знаний/IDE/CursorAI/Команды чата.md",
     "База IT-знаний/IDE/CursorAI/Горячие клавиши.md",
     "База IT-знаний/IDE/CursorAI",
-    "DNL/Достижения.md",
     "Без названия.canvas",
     "Проекты/Phasmophobia/Без названия.base",
     "Проекты/Веб-публикация 1С/Без названия.canvas",
