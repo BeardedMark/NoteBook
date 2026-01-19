@@ -1,4 +1,5 @@
 # Список моих проектов
+
 ## Сайты
 - [TecRent](https://github.com/BeardedMark/TecRent) — Интернет-каталог для отображения предложений
 - [SinMark](https://github.com/BeardedMark/SinMark) — Сайт-визитка автора-разработчика
@@ -25,5 +26,5 @@
 - ActiveChecker — *В разработке*
 
 ## Ресурсы
-- [NoteBook](https://github.com/BeardedMark/NoteBook) — Архив личных заметок, шпоргалок и мыслей
+- [NoteBook](https://github.com/BeardedMark/NoteBook) — Архив личных заметок, шпаргалок и мыслей
 - [Flextrap](https://github.com/BeardedMark/Flextrap) — Библиотека стилей и CSS компонентов
