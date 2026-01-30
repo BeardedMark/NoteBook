@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"2db99c16d3a44aac","type":"text","text":"Персонажи","x":440,"y":120,"width":250,"height":60},
+		{"id":"94d54a8e49183220","x":0,"y":260,"width":250,"height":60,"type":"text","text":"Контейнеры"},
+		{"id":"c9b1695c238f65a6","type":"text","text":"Предметы","x":345,"y":440,"width":250,"height":60},
+		{"id":"6d82be32d219513e","type":"text","text":"Враги","x":-215,"y":60,"width":250,"height":60},
+		{"id":"6e1643fb33ea60b0","x":820,"y":-350,"width":250,"height":60,"type":"text","text":"Гильдии"},
+		{"id":"df2343a6b59c2947","x":35,"y":-520,"width":250,"height":60,"type":"text","text":"Локации"},
+		{"id":"46b11386b06bd605","x":515,"y":-260,"width":250,"height":60,"type":"text","text":"Убежища"},
+		{"id":"c5a5c9aaf529361a","x":765,"y":-70,"width":250,"height":60,"type":"text","text":"Пользователи"},
+		{"id":"2795312ebc39c8be","x":-380,"y":-200,"width":250,"height":60,"type":"text","text":"Дороги"}
+	],
+	"edges":[
+		{"id":"77746e24ee62e1f2","fromNode":"2795312ebc39c8be","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"badfd615a514849f","fromNode":"c9b1695c238f65a6","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"24780ff8ee02e9bf","fromNode":"6d82be32d219513e","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"2a40022753dd180c","fromNode":"c9b1695c238f65a6","fromSide":"top","toNode":"2db99c16d3a44aac","toSide":"bottom"},
+		{"id":"a9c92a48106d9ebd","fromNode":"2db99c16d3a44aac","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"376357553d8f73af","fromNode":"2db99c16d3a44aac","fromSide":"top","toNode":"c5a5c9aaf529361a","toSide":"bottom"},
+		{"id":"de9de5ab1091f3a7","fromNode":"c5a5c9aaf529361a","fromSide":"top","toNode":"6e1643fb33ea60b0","toSide":"bottom"},
+		{"id":"2fe9c1f274fbd5e4","fromNode":"c9b1695c238f65a6","fromSide":"top","toNode":"94d54a8e49183220","toSide":"bottom"},
+		{"id":"c017d9dc1657bc59","fromNode":"94d54a8e49183220","fromSide":"top","toNode":"6d82be32d219513e","toSide":"bottom"},
+		{"id":"4c502ac3f785dc20","fromNode":"94d54a8e49183220","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"5e51ab01b6a66396","fromNode":"46b11386b06bd605","fromSide":"top","toNode":"df2343a6b59c2947","toSide":"bottom"},
+		{"id":"0fdc139299b1eb34","fromNode":"c5a5c9aaf529361a","fromSide":"top","toNode":"46b11386b06bd605","toSide":"bottom"}
+	]
+}
