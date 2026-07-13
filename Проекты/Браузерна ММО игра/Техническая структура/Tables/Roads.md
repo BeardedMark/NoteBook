@@ -7,8 +7,8 @@ timestamps: true
 
 | name               | type         | default | unique | desctiption   |
 | ------------------ | ------------ | ------- | ------ | ------------- |
-| from_location_code | [[Location]] |         |        | Откуда        |
-| to_location_code   | [[Location]] |         |        | Куда          |
+| from_location_code | [[Проекты/Браузерна ММО игра/Техническая структура/Models/Location]] |         |        | Откуда        |
+| to_location_code   | [[Проекты/Браузерна ММО игра/Техническая структура/Models/Location]] |         |        | Куда          |
 | is_one_way         | boolean      | false   |        | Односторонняя |
 - from_location_code - локация с которой был произведен переход
 - to_location_code - локация на которую был произведен переход

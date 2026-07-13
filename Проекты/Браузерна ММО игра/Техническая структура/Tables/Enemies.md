@@ -9,6 +9,6 @@ timestamps: true
 | min_level    | int                | 1       |        |          | Мин уровень         |
 | max_level    | int                |         |        |          | Макс уровень        |
 | modifiers    | array [[Modifier]] |         |        |          | Модификаторы        |
-| drops        | array [[Item]]     |         |        |          | Выпадающие предметы |
+| drops        | array [[Проекты/Браузерна ММО игра/Техническая структура/Models/Item]]     |         |        |          | Выпадающие предметы |
 |              |                    |         |        |          | Сложность           |
 

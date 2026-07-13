@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"00012c46fc41145c","x":-100,"y":250,"width":250,"height":60,"type":"text","text":"migrations"},
+		{"id":"68bf2acc63e8276f","type":"text","text":"Traits","x":-100,"y":190,"width":250,"height":60},
+		{"id":"36f04b874ea67b0a","x":230,"y":220,"width":250,"height":60,"type":"text","text":"Models"},
+		{"id":"276698db383a1152","x":-400,"y":250,"width":250,"height":60,"type":"text","text":"Schemas"},
+		{"id":"5163a3728208eedc","type":"text","text":"Services","x":230,"y":160,"width":250,"height":60},
+		{"id":"656201a385f5cae6","x":560,"y":190,"width":250,"height":60,"type":"text","text":"Instances"},
+		{"id":"b33d28bd3df969d2","x":860,"y":190,"width":250,"height":60,"type":"text","text":"Controllers"}
+	],
+	"edges":[
+		{"id":"f5ff781541aad39e","fromNode":"276698db383a1152","fromSide":"right","toNode":"00012c46fc41145c","toSide":"left"},
+		{"id":"d3ff7b594eec6356","fromNode":"68bf2acc63e8276f","fromSide":"right","toNode":"36f04b874ea67b0a","toSide":"left"},
+		{"id":"7e7887faeb75b1c8","fromNode":"5163a3728208eedc","fromSide":"top","toNode":"b33d28bd3df969d2","toSide":"top"},
+		{"id":"294cb716aa04f43d","fromNode":"5163a3728208eedc","fromSide":"right","toNode":"656201a385f5cae6","toSide":"left"},
+		{"id":"431495d4f6fd01ea","fromNode":"36f04b874ea67b0a","fromSide":"bottom","toNode":"b33d28bd3df969d2","toSide":"bottom"},
+		{"id":"6dc03e5d2d981c73","fromNode":"00012c46fc41145c","fromSide":"right","toNode":"36f04b874ea67b0a","toSide":"left"},
+		{"id":"8c4272920f158afb","fromNode":"36f04b874ea67b0a","fromSide":"right","toNode":"656201a385f5cae6","toSide":"left"},
+		{"id":"f81fa1ca88a607b0","fromNode":"656201a385f5cae6","fromSide":"right","toNode":"b33d28bd3df969d2","toSide":"left"}
+	]
+}

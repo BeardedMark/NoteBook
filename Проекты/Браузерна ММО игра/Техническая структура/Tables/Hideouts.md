@@ -7,7 +7,7 @@ timestamps: true
 
 | name          | type                             | default | unique | desctiption |
 | ------------- | -------------------------------- | ------- | ------ | ----------- |
-| location_code | [[Location]]                     |         |        |             |
+| location_code | [[Проекты/Браузерна ММО игра/Техническая структура/Models/Location]]                     |         |        |             |
 | user_id       | [[User]]                         |         |        |             |
 | level         | int                              | 1       |        | Уровень     |
 | inventory     | ?array [[Item Instance]]         |         |        | Тайник      |

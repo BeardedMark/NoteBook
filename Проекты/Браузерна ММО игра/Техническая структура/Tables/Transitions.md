@@ -7,8 +7,8 @@ timestamps: true
 
 | name          | type                             | default | unique | desctiption  |
 | ------------- | -------------------------------- | ------- | ------ | ------------ |
-| character_id  | [[Character]]                    |         |        | Персонаж     |
-| location_code | [[Location]]                     |         |        | Локация      |
+| character_id  | [[Проекты/Браузерна ММО игра/Техническая структура/Models/Character]]                    |         |        | Персонаж     |
+| location_code | [[Проекты/Браузерна ММО игра/Техническая структура/Models/Location]]                     |         |        | Локация      |
 | hideout_id    | ?[[Hideout]]                     |         |        | Убежище      |
 | modifiers     | ?array [[Modifier Instance]]     |         |        | Модификаторы |
 | inventory     | ?array [[Item Instance]]         |         |        | Предметы     |

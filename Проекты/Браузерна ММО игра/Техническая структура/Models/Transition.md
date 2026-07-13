@@ -1,5 +1,5 @@
 ---
-Table: "[[Transitions]]"
+Table: "[[Проекты/Браузерна ММО игра/Техническая структура/Tables/Transitions]]"
 Traits: []
 ---
 

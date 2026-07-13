@@ -1,4 +1,4 @@
 ---
-Table: "[[Locations]]"
+Table: "[[Проекты/Браузерна ММО игра/Техническая структура/Tables/Locations]]"
 Traits: []
 ---

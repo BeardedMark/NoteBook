@@ -1,5 +1,5 @@
 ---
-Table: "[[Characters]]"
+Table: "[[Проекты/Браузерна ММО игра/Техническая структура/Tables/Characters]]"
 Traits: []
 ---
 

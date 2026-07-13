@@ -1,5 +1,5 @@
 ---
-Table: "[[Enemies]]"
+Table: "[[Проекты/Браузерна ММО игра/Техническая структура/Tables/Enemies]]"
 Traits:
 ---
 

@@ -11,14 +11,14 @@ cd _foldername_
 
 ```bash
 # Создание ссылки на основе папки
-ln -s ~/webface/public ~/webface/public_html
+ln -s ~/WebOneS/public ~/WebOneS/public_html
 ```
 
 
 
 ```bash
 # Создание ссылки на хранилище
-ln -s ~/webface/storage/app/public ~/webface/public/storage
+ln -s ~/WebOneS/storage/app/public ~/WebOneS/public/storage
 ```
 
 ## Подключение базы данных в .env
